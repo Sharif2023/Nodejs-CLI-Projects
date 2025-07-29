@@ -1,0 +1,10 @@
+1. cd <dir>
+2. npm init
+3. Test:
+node index.js add "Learn Node.js"
+node index.js add "Make lunch"
+node index.js ls
+node index.js done 1
+node index.js report
+node index.js del 1
+node index.js ls
